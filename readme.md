@@ -1,4 +1,4 @@
-# 莊鈺屏 (Peggy Juang)
+# 莊鈺屏 (Peggy)
 - Education: 國立雲林科技大學 / 設計學研究所
 - Location: Taipei City
 - E-mail: peggyquu@hotmail.com
