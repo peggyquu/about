@@ -7,9 +7,11 @@
 
 ### 專業技能
 - 熟悉 photoshop、illustrator、sketch 繪製UI，佐以 zeplin 輔助 sublime 切版。
+- 使用 balsamiq 繪製 wireframe
 - 使用 HTML + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化。
 - 使用 CMS系統 Joomla!製作網頁
 - 了解 Git / Github 與基本指令運用
+- 使用 indesign 進行雜誌編輯設計
 <hr>
 
 ### 工作經驗 
