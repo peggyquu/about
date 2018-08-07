@@ -32,7 +32,7 @@
   ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
 
 **網站切版**
-- <a href="https://peggyquu.github.io/hexschoolweb/" target="_blank"><B>六角學院網站（RWD）</B></a> <BR>
+- <a href="https://peggyquu.github.io/hexschoolweb/"target="_blank"><B>六角學院網站（RWD）</B></a> <BR>
   ⌞ 切出psd中需使用的素材，進行切版並具備RWD<BR> 
 
 - <a href="https://peggyquu.github.io/edm1/"><B>夏木樂主機帳單通知信</B></a> <BR>
