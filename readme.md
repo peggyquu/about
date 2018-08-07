@@ -22,7 +22,7 @@
 ### 作品
 **Joomla!**
 - <a href="https://www.suhuguitar.tw/" target="_blank"><B>玩音指彈屋</B> (RWD)</a> <BR>
-  ⌞ 使用joomshaper的page buuilder建置網站 <BR>
+  ⌞ 使用joomshaper的page builder建置網站 <BR>
 
 - <a href="http://rsprc.ntu.edu.tw/zh-tw/" target="_blank"><B>台大風險社會與政策研究中心</B> (RWD)</a> <BR>
   ⌞ 繪製前台mockup與客戶溝通確認前台樣式佈局與功能 <BR>
