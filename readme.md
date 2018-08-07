@@ -37,9 +37,15 @@
 
 - <a href="https://peggyquu.github.io/edm1/"><B>夏木樂主機帳單通知信</B> (RWD)</a> <BR>
   ⌞ 繪製mockup，並使用inline切出符合gmail瀏覽之EDM<BR>
+ 
+ - <a href="https://peggyquu.github.io/profondedm/"><B>昇恆昌-澎坊通知信</B> (RWD)</a> <BR>
+  ⌞ 繪製mockup，並使用inline切出符合gmail, outlook瀏覽之EDM<BR>
 
 **平面設計＆UI**
-- <a href="https://issuu.com/peggyquu/docs/______" target="_blank"><B>作品集issuu</B></a> <BR>
+- <a href="https://issuu.com/peggyquu/docs/______" target="_blank"><B>Issuu作品集</B></a> <BR>
+  ⌞ 網站UI、海報、雜誌設計<BR> 
+ 
+- <a href="https://www.behance.net/peggyquu7fb5" target="_blank"><B>Behance作品集</B></a> <BR>
   ⌞ 網站UI、海報、雜誌設計<BR> 
 <hr>
   
