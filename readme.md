@@ -6,7 +6,7 @@
 <hr>
 
 ### 專業技能
-- 熟悉 photoshop、illustrator、sketch 繪製UI，佐以 zeplin 輔助 sublime 切版。
+- 熟悉 photoshop、illustrator、sketch、adobe XD 繪製UI，佐以 zeplin 輔助 vs code 切版。
 - 使用 balsamiq 繪製 wireframe
 - 使用 HTML + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化。
 - 使用 CMS系統 Joomla!製作網頁
@@ -19,6 +19,8 @@
  ⌞ 雜誌編排設計、插畫、電商banner設計、資訊圖表設計，協助製作網站素材<BR>
 -  百岳國際（夏木樂） /  網頁設計(106.01-107.06) ： <br> 
  ⌞ 小型joomla網站專案接洽與製作，大型開發專案靜態頁面切版<BR> 
+-  先得利資訊股份有限公司 /  網頁設計(107.08-現在) ： <br> 
+⌞ 網頁ui設計、無障礙網站切版、banner設計、插圖繪製<BR> 
 <hr>
 
 ### 作品
@@ -34,11 +36,14 @@
   ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
 
 **網站切版**
-- <a href="https://peggyquu.github.io/hexschoolweb/" target="_blank"><B>六角學院網站（RWD）</B></a> <BR>
-  ⌞ 切出psd中需使用的素材，進行切版並具備RWD<BR> 
+- <a href="https://www.dbnsa.gov.tw/" target="_blank"><B>大鵬灣國家風景區（RWD、無障礙）</B></a> <BR>
+  ⌞ 大鵬灣國家風景區官網改版、首頁重新切版，內頁調整css<BR> 
 
-- <a href="https://peggyquu.github.io/hexrestaurant/" target="_blank"><B>六角西餐廳（RWD）</B></a> <BR>
-  ⌞ 切出psd中需使用的素材，進行切版並具備RWD<BR>
+- <a href="https://afrch.forest.gov.tw/" target="_blank"><B>阿里山林業鐵路及文化資產管理處（RWD、無障礙）</B></a> <BR>
+  ⌞ 林鐵處官網切版<BR>
+ 
+ - <a href="https://theme.npm.edu.tw/opendata/" target="_blank"><B>故宮Open Data網站（RWD）</B></a> <BR>
+  ⌞ 故宮Open Data網站改版、首頁重新切版，內頁調整css<BR>
 
 - <a href="https://peggyquu.github.io/edm1/"><B>夏木樂主機帳單通知信</B></a> <BR>
   ⌞ 繪製mockup，並使用inline切出符合gmail瀏覽之EDM<BR>
@@ -61,4 +66,6 @@
 在設計的領域中，一邊工作一邊學習，不斷地獲取新資訊成為生活與設計的養分也是必備的態度之一，有感於網路與行動裝置的使用頻繁，在品辰工作近半年左右，開始網 頁設計切版的課程進修，或是購買網路課程，如hahow、udemy等平台在家自學設計相關課程。<br>
 <br>
 在品辰工作近一年後應徵上百岳國際，公司主要承接 Joomla 套版專案與 windwalker 框架製作的大型專案，在公司的第一年主要一邊學習 Joomla 一邊練習 HTML 與 CSS，後期公司也培養員工自行接案的能力，因此在過程中可以了解一個網站從無到上架的流程，有時如有需求，也會協助大型專案繪製網站 mockup 與切版。<br>
+<br>
+於百岳國際公司任職一年半後應徵上先得利資訊股份有限公司，公司主要承接政府部門網站，由於政府部門網站決大部分都必須通過無障礙，因此開始接觸學習無障礙網站切版的技巧，除了切版的工作之外也會製作網站的ui設計稿做提案，經手過的網站ui為榮總院史廳及國立臺灣歷史博物館典藏網（製作中未上線），經手過得切版網站為大鵬灣國家風景區、故宮電子報主題網（製作中未上線）、故宮open data網站、阿里山林業鐵路及文化資產管理處、馬祖國家風景區網站（製作中未上線）等。
 
