@@ -52,7 +52,7 @@
   ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
 
 **平面設計＆UI**
-- <a href="https://www.behance.net/peggyquu7fb5" target="_blank"><B>Behance作品集</B></a> <BR>
+- <a href="https://www.behance.net/peggyquu" target="_blank"><B>Behance作品集</B></a> <BR>
   ⌞ 網站UI、海報、雜誌設計<BR> 
  
 - <a href="https://issuu.com/peggyquu/docs/______" target="_blank"><B>Issuu作品集</B></a> <BR>
