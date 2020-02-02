@@ -24,17 +24,6 @@
 <hr>
 
 ### 作品
-**Joomla!**
-- <a href="https://www.suhuguitar.tw/" target="_blank"><B>玩音指彈屋</B> (RWD)</a> <BR>
-  ⌞ 使用joomshaper的page builder建置網站 <BR>
-
-- <a href="http://rsprc.ntu.edu.tw/zh-tw/" target="_blank"><B>台大風險社會與政策研究中心</B> (RWD)</a> <BR>
-  ⌞ 繪製前台mockup與客戶溝通確認前台樣式佈局與功能 <BR>
-  ⌞ joomla!網站版本升級，與後端工程師合作，後端工程師執行轉移資料庫，我負責進行前台樣式及找尋合適套件製作網站 <BR>
-  
-- <a href="https://sealc-nccu.nccu.edu.tw/" target="_blank"><B>東南亞語言與文化學士學位學程</B> </a> <BR>
-  ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
-
 **網站切版**
 - <a href="https://www.dbnsa.gov.tw/" target="_blank"><B>大鵬灣國家風景區（RWD、無障礙）</B></a> <BR>
   ⌞ 大鵬灣國家風景區官網改版、首頁重新切版，內頁調整css<BR> 
@@ -50,6 +39,17 @@
  
  - <a href="https://peggyquu.github.io/profondedm/"><B>昇恆昌-澎坊通知信</B></a> <BR>
   ⌞ 繪製mockup，並使用inline切出符合gmail, outlook瀏覽之EDM<BR>
+ 
+**Joomla!**
+- <a href="https://www.suhuguitar.tw/" target="_blank"><B>玩音指彈屋</B> (RWD)</a> <BR>
+  ⌞ 使用joomshaper的page builder建置網站 <BR>
+
+- <a href="http://rsprc.ntu.edu.tw/zh-tw/" target="_blank"><B>台大風險社會與政策研究中心</B> (RWD)</a> <BR>
+  ⌞ 繪製前台mockup與客戶溝通確認前台樣式佈局與功能 <BR>
+  ⌞ joomla!網站版本升級，與後端工程師合作，後端工程師執行轉移資料庫，我負責進行前台樣式及找尋合適套件製作網站 <BR>
+  
+- <a href="https://sealc-nccu.nccu.edu.tw/" target="_blank"><B>東南亞語言與文化學士學位學程</B> </a> <BR>
+  ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
 
 **平面設計＆UI**
 - <a href="https://www.behance.net/peggyquu7fb5" target="_blank"><B>Behance作品集</B></a> <BR>
