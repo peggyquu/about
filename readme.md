@@ -12,6 +12,7 @@
 - 使用 CMS系統 Joomla!製作網頁
 - 了解 Git / Github 與sass基本指令運用
 - 使用 indesign 進行雜誌編輯設計
+- 在專案控管與溝方面能使用 slack 與 trello 
 <hr>
 
 ### 工作經驗 
