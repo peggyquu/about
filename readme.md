@@ -52,7 +52,7 @@
   ⌞ 繪製前台mockup與客戶溝通確認前台樣式佈局與功能 <BR>
   ⌞ joomla!網站版本升級，與後端工程師合作，後端工程師執行轉移資料庫，我負責進行前台樣式及找尋合適套件製作網站 <BR>
   
-- <a href="https://sealc-nccu.nccu.edu.tw/" target="_blank"><B>東南亞語言與文化學士學位學程</B> </a> <BR>
+- <a href="https://sealc-nccu.nccu.edu.tw/" target="_blank"><B>政治大學東南亞語言與文化學士學位學程</B> </a> <BR>
   ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
 
 **平面設計＆UI**
