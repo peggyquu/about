@@ -29,28 +29,28 @@
 ### 作品
 **網站切版**
 - <a href="https://www.capital.com.tw/event/group/2020_linepoint_100/default_line.asp" target="_blank"><B>群歡益百 快閃活動（RWD）</B></a> <BR>
-  ⌞ 活動網站視覺＋切版<BR>
+  ⌞ 活動網站視覺＋切版（2020）<BR>
  
 - <a href="https://www.capital.com.tw/event/group/2020_marketing/default.asp" target="_blank"><B>集合了 新戶群友會（RWD）</B></a> <BR>
-  ⌞ 活動網站切版<BR>
+  ⌞ 活動網站切版（2020）<BR>
  
 - <a href="https://fx.capitalfutures.com.tw/event/index?sid=X00001" target="_blank"><B>群益外匯王（RWD）</B></a> <BR>
-  ⌞ 活動網站視覺＋切版<BR>
+  ⌞ 活動網站視覺＋切版（2020）<BR>
 
 - <a href="https://www.matsu-nsa.gov.tw/index.aspx?l=1" target="_blank"><B>馬祖國家風景區官網（RWD、無障礙）</B></a> <BR>
-  ⌞ 馬祖官網切版<BR>
+  ⌞ 馬祖官網切版（2020）<BR>
 
 - <a href="https://www.dbnsa.gov.tw/" target="_blank"><B>大鵬灣國家風景區（RWD、無障礙）</B></a> <BR>
-  ⌞ 大鵬灣國家風景區官網改版、首頁重新切版，內頁調整css<BR> 
+  ⌞ 大鵬灣國家風景區官網改版、首頁重新切版，內頁調整css（2020）<BR> 
 
 - <a href="https://afrch.forest.gov.tw/" target="_blank"><B>阿里山林業鐵路及文化資產管理處（RWD、無障礙）</B></a> <BR>
-  ⌞ 林鐵處官網切版<BR>
+  ⌞ 林鐵處官網切版（2019）<BR>
  
  - <a href="https://theme.npm.edu.tw/opendata/" target="_blank"><B>故宮Open Data網站（RWD）</B></a> <BR>
-  ⌞ 故宮Open Data網站改版、首頁重新切版，內頁調整css<BR>
+  ⌞ 故宮Open Data網站改版、首頁重新切版，內頁調整css（2019）<BR>
  
  - <a href="https://airport-city.caa.gov.tw/" target="_blank"><B>民航局-桃園航空城核心計畫（RWD、無障礙）</B></a> <BR>
-  ⌞ 民航局-桃園航空城核心計畫切版<BR>
+  ⌞ 民航局-桃園航空城核心計畫切版（2019）<BR>
 
 - <a href="https://peggyquu.github.io/edm1/"><B>夏木樂主機帳單通知信</B></a> <BR>
   ⌞ 繪製mockup，並使用inline切出符合gmail瀏覽之EDM<BR>
@@ -60,14 +60,14 @@
  
 **Joomla!**
 - <a href="https://www.suhuguitar.tw/" target="_blank"><B>玩音指彈屋</B> (RWD)</a> <BR>
-  ⌞ 使用joomshaper的page builder建置網站 <BR>
+  ⌞ 使用joomshaper的page builder建置網站 （2018）<BR>
 
 - <a href="http://rsprc.ntu.edu.tw/zh-tw/" target="_blank"><B>台大風險社會與政策研究中心</B> (RWD)</a> <BR>
   ⌞ 繪製前台mockup與客戶溝通確認前台樣式佈局與功能 <BR>
-  ⌞ joomla!網站版本升級，與後端工程師合作，後端工程師執行轉移資料庫，我負責進行前台樣式及找尋合適套件製作網站 <BR>
+  ⌞ joomla!網站版本升級，與後端工程師合作，後端工程師執行轉移資料庫，我負責進行前台樣式及找尋合適套件製作網站 （2019）<BR>
   
 - <a href="https://sealc-nccu.nccu.edu.tw/" target="_blank"><B>政治大學東南亞語言與文化學士學位學程</B> </a> <BR>
-  ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 <BR>
+  ⌞ 與客戶溝通確認前台樣式佈局與功能，進行前台樣式及找尋合適套件製作網站 （2018）<BR>
 
 **平面設計＆UI**
 - <a href="https://www.behance.net/peggyquu" target="_blank"><B>Behance作品集</B></a> <BR>
