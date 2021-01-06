@@ -28,13 +28,13 @@
 
 ### 作品
 **網站切版**
-- <a href="https://www.capital.com.tw/event/group/2020_linepoint_100/default_line.asp" target="_blank"><B>群歡益百 快閃活動</B></a> <BR>
+- <a href="https://www.capital.com.tw/event/group/2020_linepoint_100/default_line.asp" target="_blank"><B>群歡益百 快閃活動（RWD）</B></a> <BR>
   ⌞ 活動網站切版<BR>
  
-- <a href="https://www.capital.com.tw/event/group/2020_marketing/default.asp" target="_blank"><B>集合了 新戶群友會</B></a> <BR>
+- <a href="https://www.capital.com.tw/event/group/2020_marketing/default.asp" target="_blank"><B>集合了 新戶群友會（RWD）</B></a> <BR>
   ⌞ 活動網站切版<BR>
  
-- <a href="https://fx.capitalfutures.com.tw/event/index?sid=X00001" target="_blank"><B>群益外匯王</B></a> <BR>
+- <a href="https://fx.capitalfutures.com.tw/event/index?sid=X00001" target="_blank"><B>群益外匯王（RWD）</B></a> <BR>
   ⌞ 活動網站切版<BR>
 
 - <a href="https://www.matsu-nsa.gov.tw/index.aspx?l=1" target="_blank"><B>馬祖國家風景區官網（RWD、無障礙）</B></a> <BR>
